@@ -2,18 +2,29 @@
 This project implements a RESTful API for managing person data using C# and .NET Core.
 
 # Table of Contents
-Person Model
-API Endpoints
-Data Storage
-Validation
-Testing
-Documentation
+
 Person Model
 
+API Endpoints
+
+Data Storage
+
+Validation
+
+Testing
+
+Documentation
+
+# Person Model
+
 The Person class has the following properties:
+
 Id (integer, unique identifier)
+
 FirstName (string)
+
 LastName (string)
+
 Age (integer)
 
 # API Endpoints
@@ -46,11 +57,18 @@ To run the tests, use a testing framework such as NUnit.
 # Documentation
 To run the project and test the API endpoints:
 
-# Clone the repository.
-Open the project in your preferred IDE.
-Build and run the project.
-Use a tool like Postman or curl to interact with the API.
-Libraries and Tools
+1. Clone the repository.
+
+2. Open the project in your preferred IDE.
+
+3. Build and run the project using the **dotnet run** from PersonManagementAPI-FieldTech\PersonManagerFieldTech> directory.
+
+4. Use the swagger documentation or tools like Postman or curl to interact with the API.
+
+# Libraries and Tools
 C#
+
 .NET Core
+
 NUnit (for testing)
+
