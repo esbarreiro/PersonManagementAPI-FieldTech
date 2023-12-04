@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PersonManagerFieldTech.Test/bin/Debug/net6.0
+/PersonManagerFieldTech.Test/obj
+/PersonManagerFieldTech.Data/.vs/PersonManagerFieldTech.Data
+/PersonManagerFieldTech.Data/bin/Debug/net6.0
+/PersonManagerFieldTech.Data/obj
+/PersonManagerFieldTech/bin/Debug/net6.0
+/PersonManagerFieldTech/obj
+/.vs
+/PersonManagerFieldTech.Services/bin/Debug/net6.0
+/PersonManagerFieldTech.Services/obj
+/PersonManagerFieldTech.Repository/bin/Debug/net6.0
+/PersonManagerFieldTech.Repository/obj
+/PersonManagerFieldTech.Data/Class1.cs
